@@ -1,0 +1,88 @@
+body {
+    text-align: center ;
+    background-color: aqua;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+header {
+    color: rgb(44, 184, 219);
+    text-align: center;
+    padding: 10px;
+}
+
+label {
+    color: aqua;
+    padding: 10px;
+    margin-left: 6%;
+}
+select {
+    border: 1px solid aqua;
+    border-radius: 5px;
+    padding: 5px;
+}
+.class {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+input {
+    border: 1px solid rgb(58, 212, 233);
+    border-radius: 5px;
+    padding: 5px;
+}
+.div {
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    color: aqua;
+    text-align: center;
+}
+
+.conteiner {
+    width: 1000px;
+    background-color: aqua;
+    color: blue;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 3px;
+    padding: 20px;
+    height: 200px;
+}
+.item {
+    background-color: rgb(93, 238, 231);
+    width: 100px;
+    height: 200px;
+    border-radius: 1px;
+    margin: 10px;
+}
+/* 
+
+header {
+    text-align: center;
+    padding: 10px;
+}
+
+label {
+    color: aqua;
+    padding: 5px;
+    margin-left: 7%
+}
+
+select {
+    border: 1px solid aqua;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+div {
+    color: aqua;
+}
+
+input {
+    border: 1px solid aqua;
+    border-radius: 5px;
+    padding-left: 1%;
